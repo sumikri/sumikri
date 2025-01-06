@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @sumikri
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Sumi Kumari
+- 👀 I’m interested in exploring
 - 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sumisingh11111@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 sumikri/sumikri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
